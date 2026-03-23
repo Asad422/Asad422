@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About me
 
-- 📱 Flutter Developer with **3 years** of commercial experience
-- 🚀 Shipped apps with **200k+ downloads** on Google Play & RuStore
-- 🏗 Strong in **Clean Architecture** (Data/Domain/Presentation), **BLoC/Cubit**
-- 💳 Integrated real payments (**YooKassa**), maps (**Yandex Maps SDK**), push notifications (**Firebase FCM**)
-- 🛒 Experience in **eCommerce**, **AI/Chatbot**, **marketplace integrations**
-- 🌍 Based in **Tashkent, Uzbekistan** — open to remote opportunities
-- 🎓 Studying at **INHA University** — Software Development
+-  Flutter Developer with **3 years** of commercial experience
+-  Shipped apps with **200k+ downloads** on Google Play & RuStore
+-  Strong in **Clean Architecture** (Data/Domain/Presentation), **BLoC/Cubit**
+-  Integrated real payments (**YooKassa**), maps (**Yandex Maps SDK**), push notifications (**Firebase FCM**)
+-  Experience in **eCommerce**, **AI/Chatbot**, **marketplace integrations**
+-  Based in **Tashkent, Uzbekistan** — open to remote opportunities
+-  Studying at **INHA University** — Software Development
 
 ---
 
