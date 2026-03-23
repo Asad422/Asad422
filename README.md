@@ -78,24 +78,3 @@
 | **Tech Test** | Clean Architecture demo app | — | [GitHub](https://github.com/Asad422/tech-test) |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad422&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad422&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 📈 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad422&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <i>💬 Open to remote Flutter opportunities worldwide 🌍</i>
-</p>
